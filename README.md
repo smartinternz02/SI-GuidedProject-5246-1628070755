@@ -14,8 +14,6 @@ Application made using:\
 -Validation for creating new posts, body must not be empty, title must have length of 7 by default and other;\
 -Spring Security authentication and authorization rules ensures that users only able to edit or delete their own posts;\
 -Front-end made using Thymeleaf templates.
-</i>
-<i>
-Here is the Explanation video
+-Here is the Explanation video:
 https://drive.google.com/file/d/1_pRvw6dU5UsatDvIjz6SyjYfEpPkLpeB/view?usp=sharing
 </i>
