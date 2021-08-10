@@ -15,5 +15,7 @@ Application made using:\
 -Spring Security authentication and authorization rules ensures that users only able to edit or delete their own posts;\
 -Front-end made using Thymeleaf templates.
 </i>
+<i>
 Here is the Explanation video
 https://drive.google.com/file/d/1_pRvw6dU5UsatDvIjz6SyjYfEpPkLpeB/view?usp=sharing
+</i>
